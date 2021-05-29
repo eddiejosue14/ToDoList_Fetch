@@ -11,3 +11,35 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.container{
+    width: 500px;
+    height: 100%;
+}
+
+.title{
+    text-align: center;
+    padding-top: 50px;
+    color:rgb(8, 44, 245);
+    opacity: 1;
+    font-family: 'Anton', sans-serif;
+    font-size: 60px;
+}
+
+.inputValue{
+  color:black;
+  font-family: 'Sintony', sans-serif;
+}
+
+.list-group{
+    color:black;
+    font-family: 'Sintony', sans-serif;
+    font-size: 15px;
+}
+
+.counter{
+color:rgb(8, 44, 245);
+    opacity: 1;
+    font-family: 'Sintony', sans-serif;
+    font-size: 15px;
+    margin-top: 20px;
+}
